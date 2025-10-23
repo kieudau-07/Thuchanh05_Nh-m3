@@ -35,7 +35,7 @@
 - VS Code + GitHub Copilot  
 - GitHub / Git  
 ## NGUỒN VÀ BẢN QUYỀN
-- Ảnh: Unsplash (CC0)  
+- Ảnh: Unsplash (CC0) , Pexels
 - Video/Âm thanh: Pexels, FreeSound (CC0)  
 - AI hỗ trợ: Google Gemini,ChatGpt, Canva AI, GitHub Copilot  
 - Giấy phép tổng thể: [Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
