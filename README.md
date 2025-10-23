@@ -39,7 +39,7 @@
 - Video/Âm thanh: Pexels, FreeSound (CC0)  
 - AI hỗ trợ: Google Gemini,ChatGpt, Canva AI, GitHub Copilot  
 - Giấy phép tổng thể: [Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-## ✅ KẾT QUẢ CUỐI CÙNG
+## KẾT QUẢ CUỐI CÙNG
 Repository này chứa toàn bộ sản phẩm của **Bài Thực hành 05**, bao gồm:
 - Báo cáo văn bản (PDF)  
 - Infographic (PNG)  
